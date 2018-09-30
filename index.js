@@ -1,7 +1,7 @@
 function BoardMember(name, homeState, training){
   this.name = name; 
-  this.homeState = city;
-  this.training = depart;
+  this.homeState = homeState;
+  this.training = training;
     return 'No, I must disagree';
   };
   this.approve = function(){
