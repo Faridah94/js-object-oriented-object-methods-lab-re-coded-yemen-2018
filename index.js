@@ -1,4 +1,4 @@
-function BoardMember(name, homeState, training){
+function BoardMember(name, city, depart){
   this.name = name; 
   this.homeState = city;
   this.training = depart;
